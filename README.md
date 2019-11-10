@@ -1,2 +1,2 @@
 # Icy-Universe
-Test Game made with SFML & C++
+Platformer game made with SFML & C++
